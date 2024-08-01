@@ -15,6 +15,7 @@ phases:
   # Many software libraries you may need are available from the test host using the devicefarm-cli tool.
   # To learn more about what software is available from it and how to use it, please see:
   # https://docs.aws.amazon.com/devicefarm/latest/developerguide/amazon-linux-2-devicefarm-cli.html
+  # comment 
   install:
     commands:
       # The Appium server is written using Node.js. In order to run your desired version of Appium,
